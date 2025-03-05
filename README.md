@@ -1,5 +1,22 @@
 # LinkCom
+## Project Overview
 This project implements a bidirectional communication system using STM32 microcontrollers, an LCD, a keypad, and GPIO signals. The system enables users to send and receive predefined messages through a simple interface.
+## Project Images
+
+### 1️⃣ LinkCom Project
+
+This is the actual LinkCom hardware setup, showcasing microcontrollers, LCD displays, and wiring connections.
+
+![IMG_5203](https://github.com/user-attachments/assets/3745638a-c5e3-4d94-a1d5-cfb75e5dd274)
+### 2️⃣ Fusion 360 Model
+
+A 3D CAD model of the LinkCom project designed in **Fusion 360**, providing a structured visualization of the setup.
+![image](https://github.com/user-attachments/assets/37ee510d-e32a-4fd7-9e90-f38fc952ad02)
+
+### 3️⃣ Circuit Schematic (Altium)
+
+This is the **electrical schematic** of the LinkCom project, designed in **Altium**, detailing the microcontroller, keypad, LCD display, and other electronic components.
+![image](https://github.com/user-attachments/assets/86be4d06-e41e-40d5-b75b-0e8066670dbd)
 
 ## Features
 - **Message Transmission and Reception**: Sends and receives 4-bit messages using GPIO pins.
